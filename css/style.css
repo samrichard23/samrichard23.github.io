@@ -27,6 +27,13 @@ body {
     background-size: cover;
   }
 
+@media (max-width: 570px) {
+    .carousel-item {
+        height: 100%;
+    }
+}
+
+
 .tengah {
       padding-bottom: 130px;
   }
