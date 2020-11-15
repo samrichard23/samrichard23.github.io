@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.nav-link{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;    
+}
+
+.nav-link:hover{
+    color: white !important;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.tengah {
+      padding-bottom: 130px;
+  }
+
+html {
+    scroll-behavior: smooth;
+}  
